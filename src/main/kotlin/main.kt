@@ -1,6 +1,7 @@
 
 fun main() {
-    println(secondExample(4, 7))
+    val thirdExample=thirdExample(listOf(2,1))
+    println("${thirdExample.first} ${thirdExample.second}")
 }
 
 

@@ -1,4 +1,4 @@
-
+//Проверяет, все ли символы строки одинаковы
 fun String.haveSameSymbols():Boolean{
     val firstElem=this[0]
     for (i in 1 until this.length)

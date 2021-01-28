@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ThirdTaskTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-01-28T12:45:12" hostname="LAPTOP-6R46FHR6" time="0.021">
+  <properties/>
+  <testcase name="thirdExampleTest1" classname="ThirdTaskTest" time="0.02"/>
+  <testcase name="thirdExampleTest2" classname="ThirdTaskTest" time="0.001"/>
+  <testcase name="thirdExampleTest3" classname="ThirdTaskTest" time="0.0"/>
+  <testcase name="thirdExampleTest4" classname="ThirdTaskTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
